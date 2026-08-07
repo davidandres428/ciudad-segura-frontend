@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-mist text-ink font-body;
+}
+
+h1, h2, h3, h4 {
+  @apply font-display;
+}
+
+/* Foco de teclado visible en toda la aplicacion (accesibilidad) */
+:focus-visible {
+  outline: 2px solid #E8A33D;
+  outline-offset: 2px;
+}
