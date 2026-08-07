@@ -86,3 +86,5 @@ Ver `EV01_Taller_React` (fundamentos teoricos) y `EV02_Componentes_CiudadSegura`
 ## Repositorio
 
 Enlace del repositorio: _completar con la URL de tu repositorio en GitHub_
+## Repositorio del Proyecto
+https://github.com/davidandres428/ciudad-segura-frontend
